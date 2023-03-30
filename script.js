@@ -1,4 +1,3 @@
-//your code here
 function majorityElementChecker(arr)
     {
         let map = new Map();
@@ -18,3 +17,4 @@ function majorityElementChecker(arr)
             }
             document.write(" No Majority element");
     }
+majorityElementChecker()
